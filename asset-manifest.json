@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.478948c4.css",
-    "main.js": "./static/js/main.f48e9c01.js",
+    "main.js": "./static/js/main.ef747c7b.js",
     "static/media/back-card.png": "./static/media/back-card.7f20bcca1156fb77af56.png",
     "static/media/mysticWolf.png": "./static/media/mysticWolf.22e902b317f3381117f5.png",
     "static/media/leader.png": "./static/media/leader.61acbae318cf2a30d9a0.png",
@@ -29,6 +29,7 @@
     "static/media/bodyguard.png": "./static/media/bodyguard.d2c223c4c5861a6f1bbf.png",
     "static/media/doppelganger.png": "./static/media/doppelganger.81332c795e5a728a6ba4.png",
     "static/media/moon.png": "./static/media/moon.df602e58c542c24ea45e.png",
+    "static/media/exposer.png": "./static/media/exposer.28f096e5817c3b6d000a.png",
     "static/media/red-card-frame2.png": "./static/media/red-card-frame2.8a18e1b83d9f8298b560.png",
     "static/media/auraSeer.png": "./static/media/auraSeer.d1124d47935983181a63.png",
     "static/media/hunter.png": "./static/media/hunter.3e07a0b43c9c39298c66.png",
@@ -37,15 +38,17 @@
     "static/media/minion.png": "./static/media/minion.02d9e1d1d0211f1307e3.png",
     "static/media/revealer.png": "./static/media/revealer.ab1bafb7f8b0d5455c51.png",
     "static/media/prince.png": "./static/media/prince.772c2b3ed5f24e606928.png",
+    "static/media/thing.png": "./static/media/thing.71b701db57f264d8e480.png",
     "static/media/appSeer.png": "./static/media/appSeer.87e15134af0ca849a8b9.png",
     "static/media/x-mark.png": "./static/media/x-mark.e54fa34e4c1f3ebb5623.png",
     "static/media/background.png": "./static/media/background.76968609836611a45b4b.png",
     "static/media/vinque.ttf": "./static/media/vinque.96df52f34ec04dd3e9ef.ttf",
     "static/media/PERRYGOT.TTF": "./static/media/PERRYGOT.4e4fbd468b2078c2b65e.TTF",
+    "static/media/githhub.png": "./static/media/githhub.8e0be2013cff6aa3488f.png",
     "index.html": "./index.html"
   },
   "entrypoints": [
     "static/css/main.478948c4.css",
-    "static/js/main.f48e9c01.js"
+    "static/js/main.ef747c7b.js"
   ]
 }
