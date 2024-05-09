@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.cc5cf51a.css",
-    "main.js": "./static/js/main.14164357.js",
+    "main.js": "./static/js/main.302161ca.js",
     "static/media/back-card.png": "./static/media/back-card.7f20bcca1156fb77af56.png",
     "static/media/shield.png": "./static/media/shield.351743d552975189fd1b.png",
     "static/media/mark-of-the-traitor.png": "./static/media/mark-of-the-traitor.6ad644a4c76923186f15.png",
@@ -78,6 +78,6 @@
   },
   "entrypoints": [
     "static/css/main.cc5cf51a.css",
-    "static/js/main.14164357.js"
+    "static/js/main.302161ca.js"
   ]
 }
