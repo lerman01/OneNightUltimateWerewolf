@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.cc5cf51a.css",
-    "main.js": "./static/js/main.7a3cd360.js",
+    "main.js": "./static/js/main.fef8217d.js",
     "static/media/back-card.png": "./static/media/back-card.7f20bcca1156fb77af56.png",
     "static/media/shield.png": "./static/media/shield.351743d552975189fd1b.png",
     "static/media/mark-of-the-traitor.png": "./static/media/mark-of-the-traitor.6ad644a4c76923186f15.png",
@@ -32,10 +32,11 @@
     "static/media/mark-of-vampire.png": "./static/media/mark-of-vampire.dabb698c1f440e2e7a2a.png",
     "static/media/sword-of-the-bodyguard.png": "./static/media/sword-of-the-bodyguard.442b4c1792252364d447.png",
     "static/media/bow-of-the-hunter.png": "./static/media/bow-of-the-hunter.afb0710e5145adfddc7e.png",
+    "static/media/witch.png": "./static/media/witch.0619f008b8c9134b325e.png",
     "static/media/mason.png": "./static/media/mason.9d748c0b6dd70f6a4461.png",
     "static/media/giantWolf.png": "./static/media/giantWolf.1505cb8e7c407299b1c7.png",
-    "static/media/witch.png": "./static/media/witch.bbec0d6330f45ab15900.png",
-    "static/media/seer.png": "./static/media/seer.053e2748c6c393071dd7.png",
+    "static/media/appSeer.png": "./static/media/appSeer.7249ee6631dd67b30f21.png",
+    "static/media/seer.png": "./static/media/seer.88ca4f54c09e2ccd7e51.png",
     "static/media/mixed-card-frame2.png": "./static/media/mixed-card-frame2.1efee70b7455c0342576.png",
     "static/media/cloak-of-the-prince.png": "./static/media/cloak-of-the-prince.ebd1c168f53dd376fa47.png",
     "static/media/green-card-frame.png": "./static/media/green-card-frame.be6c65f293896b9d07b4.png",
@@ -46,6 +47,8 @@
     "static/media/psychic.png": "./static/media/psychic.1708ea5ea7cf8552fbaa.png",
     "static/media/paranormalInvestigator.png": "./static/media/paranormalInvestigator.7d467e677dc9fab743e5.png",
     "static/media/drunk.png": "./static/media/drunk.27fed30d23ec9b7436bd.png",
+    "static/media/alien.png": "./static/media/alien.fc745a56d4dad836f8f1.png",
+    "static/media/oracle.png": "./static/media/oracle.008f4f2d1329c00903ca.png",
     "static/media/yellow-card-frame.png": "./static/media/yellow-card-frame.81ad9e800981075c8d79.png",
     "static/media/brown-card-frame.png": "./static/media/brown-card-frame.71e89b5423d219169133.png",
     "static/media/bodyguard.png": "./static/media/bodyguard.d2c223c4c5861a6f1bbf.png",
@@ -58,6 +61,7 @@
     "static/media/auraSeer.png": "./static/media/auraSeer.d1124d47935983181a63.png",
     "static/media/hunter.png": "./static/media/hunter.3e07a0b43c9c39298c66.png",
     "static/media/cursed.png": "./static/media/cursed.0732b7d1281c1eced397.png",
+    "static/media/blob.png": "./static/media/blob.f61b00a559d4ae1acc87.png",
     "static/media/mark-of-clarity.png": "./static/media/mark-of-clarity.5d1483c1fc5d82ed08d2.png",
     "static/media/squire.png": "./static/media/squire.0874b939e5499e613c6c.png",
     "static/media/beholder.png": "./static/media/beholder.e9cdd78bd2b88cb47123.png",
@@ -65,7 +69,6 @@
     "static/media/revealer.png": "./static/media/revealer.ab1bafb7f8b0d5455c51.png",
     "static/media/prince.png": "./static/media/prince.772c2b3ed5f24e606928.png",
     "static/media/thing.png": "./static/media/thing.71b701db57f264d8e480.png",
-    "static/media/appSeer.png": "./static/media/appSeer.87e15134af0ca849a8b9.png",
     "static/media/x-mark.png": "./static/media/x-mark.e54fa34e4c1f3ebb5623.png",
     "static/media/background.png": "./static/media/background.76968609836611a45b4b.png",
     "static/media/vinque.ttf": "./static/media/vinque.96df52f34ec04dd3e9ef.ttf",
@@ -78,6 +81,6 @@
   },
   "entrypoints": [
     "static/css/main.cc5cf51a.css",
-    "static/js/main.7a3cd360.js"
+    "static/js/main.fef8217d.js"
   ]
 }
