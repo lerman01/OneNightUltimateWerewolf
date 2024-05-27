@@ -6,7 +6,13 @@ Serverless version of One Night Werewolf which based one WebRTC protocol
 to communicate between the players.
 
 ## Upcoming features:
-- Vampires expansion
+- #### Vampires expansion
+- #### Roles:
+  - Synthetic Alien
+  - Body Snatcher
+  - Blob
+  - Oracle
+
 
 
 ## Screenshots:
