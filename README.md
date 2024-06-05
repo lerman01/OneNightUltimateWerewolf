@@ -7,13 +7,11 @@ to communicate between the players.
 
 ## Upcoming features:
 - #### Vampires expansion
+- #### Tournament Mode
 - #### Roles:
   - Synthetic Alien
   - Body Snatcher
-  - Blob
   - Oracle
-
-
 
 ## Screenshots:
 ![screenshot](https://github.com/lerman01/OneNightUltimateWerewolf/blob/main/scr1.png?raw=true)
