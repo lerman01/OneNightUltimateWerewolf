@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.cc5cf51a.css",
-    "main.js": "./static/js/main.3a75af31.js",
+    "main.js": "./static/js/main.a4ca99b4.js",
     "static/media/shield.png": "./static/media/shield.351743d552975189fd1b.png",
     "static/media/mark-of-the-traitor.png": "./static/media/mark-of-the-traitor.6ad644a4c76923186f15.png",
     "static/media/shroud-of-shame.png": "./static/media/shroud-of-shame.6b95f2c2f3502f539ba0.png",
@@ -81,6 +81,6 @@
   },
   "entrypoints": [
     "static/css/main.cc5cf51a.css",
-    "static/js/main.3a75af31.js"
+    "static/js/main.a4ca99b4.js"
   ]
 }
