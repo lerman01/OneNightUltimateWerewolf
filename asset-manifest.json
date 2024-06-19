@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.cc5cf51a.css",
-    "main.js": "./static/js/main.837b1738.js",
-    "static/js/765.71bd2bef.chunk.js": "./static/js/765.71bd2bef.chunk.js",
+    "main.js": "./static/js/main.7029cbb4.js",
+    "static/js/765.fbaaea3a.chunk.js": "./static/js/765.fbaaea3a.chunk.js",
     "static/media/moon.png": "./static/media/moon.df602e58c542c24ea45e.png",
     "static/media/vampire-example.png": "./static/media/vampire-example.1594f1aa22fd2365405b.png",
     "static/media/x-mark.png": "./static/media/x-mark.e54fa34e4c1f3ebb5623.png",
@@ -86,6 +86,6 @@
   },
   "entrypoints": [
     "static/css/main.cc5cf51a.css",
-    "static/js/main.837b1738.js"
+    "static/js/main.7029cbb4.js"
   ]
 }
