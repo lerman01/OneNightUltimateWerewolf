@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.cc5cf51a.css",
-    "main.js": "./static/js/main.06ea5064.js",
+    "main.js": "./static/js/main.ec309f41.js",
     "static/js/765.fbaaea3a.chunk.js": "./static/js/765.fbaaea3a.chunk.js",
     "static/media/moon.png": "./static/media/moon.df602e58c542c24ea45e.png",
     "static/media/vampire-example.png": "./static/media/vampire-example.1594f1aa22fd2365405b.png",
@@ -86,6 +86,6 @@
   },
   "entrypoints": [
     "static/css/main.cc5cf51a.css",
-    "static/js/main.06ea5064.js"
+    "static/js/main.ec309f41.js"
   ]
 }
